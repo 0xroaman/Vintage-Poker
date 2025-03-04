@@ -184,3 +184,5 @@ const Wrapper = styled.div`
 `;
 
 export default Landing;
+
+//This is the end of Landing page
